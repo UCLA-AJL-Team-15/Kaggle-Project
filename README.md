@@ -1,11 +1,11 @@
 # Kaggle-Project
 
 ## Group Members
-Emily Sun
-Emmy Chen
-Emily Nadimyan
-Felicia Chen
-Grishma Shukla
+Emily Sun,
+Emmy Chen,
+Emily Nadimyan,
+Felicia Chen,
+Grishma Shukla,
 Grace Chen
 
 ## Project Brief + Connection to BTTAI
@@ -18,4 +18,10 @@ Our goal is to build a machine learning model that can classify dermatological c
 
 ## Real World Significance
 It goes without saying that accurate classification of dermatological conditions is critical for early diagnosis and treatment of skin diseases, including serious conditions such as melanoma. Existing AI models can struggle with classification due to biases and generalizations, especially when shown images that span a lot of different skin tones. By working on this competition, we can contribute to the development of more inclusive and fair medical AI systems. We hope that insights we uncover and conclusions we draw in this challenge can help improve diagnostic tools, assist medtech specialists and dermatologists, and expand access to healthcare.
+
+## Data Exploration (What are we looking at?)
+The dataset used in this competition is a subset of the FitzPatrick17k dataset, which consists of around 17,000 labeled images of dermatological conditions spanning a lot of different skin tones based on the FitzPatrick skin tone scale (FST). For this challenge, a subset of 4,500 images from this larger set was given, specifically covering 21 different skin conditions. Because the subset is curated, it keeps some of the representation and classification challenges seen in the full set, giving us a glimpse into the fairness and bias that can come into play in medical AI applications.
+
+## Data Exploration (Preprocessing)
+Since our target variable (skin condition labels) is categorical, we used Label Encoding to convert the labels into numerical values. Doing this allows the model to process the categorical data more effectively. In addition, we decided to split the data into 3 sets, the training, validation, and testing sets. By splitting into 3 sets instead of just 2, we are able to test our model more extensively so that we would get a better view on how accurately our model was performing.
 
