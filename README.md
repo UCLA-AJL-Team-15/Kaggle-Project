@@ -1,11 +1,16 @@
 # Kaggle-Project
 
 ## Group Members
-Emily Nadimyan,
-Emily Sun,
-Emmy Chen,
-Felicia Chen,
-Grishma Shukla,
+Emily Nadimyan: @euromii
+
+Emily Sun: @errsun
+
+Emmy Chen
+
+Felicia Chen
+
+Grishma Shukla
+
 Grace Chen
 
 ## Project Brief + Connection to BTTAI
