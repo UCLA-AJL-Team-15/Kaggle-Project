@@ -6,10 +6,10 @@
 | ----- | ----- | ----- |
 | Emily Nadimyan | @euromii | Did data preprocessing, built model, performed data augmentation, visualized dataset distributions, helped with Github readme |
 | Emily Sun | @errsun | Helped make needed changes to model, did Github readme |
-| Emmy Chen | @eachen1010 | Helped make needed changes to model |
-| Felicia Chen | @feliciafchen | Helped make needed changes to model |
-| Grishma Shukla | @grish-ma | Helped make needed changes to model |
-| Grace Chen |  | Helped make needed changes to model |
+| Emmy Chen | @eachen1010 | Helped make needed changes to model, helped with Github readme |
+| Felicia Chen | @feliciafchen | Helped make needed changes to model, helped with Github readme |
+| Grishma Shukla | @grish-ma | Helped make needed changes to model, helped with Github readme |
+| Grace Chen |  | Helped make needed changes to model, helped with Github readme |
 
 ---
 
