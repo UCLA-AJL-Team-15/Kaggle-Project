@@ -8,7 +8,7 @@
 | Emily Sun | @errsun | Helped make needed changes to model, did Github readme |
 | Emmy Chen |  | Helped make needed changes to model |
 | Felicia Chen |  | Helped make needed changes to model |
-| Grishma Shukla |  | Helped make needed changes to model |
+| Grishma Shukla | @grish-ma | Helped make needed changes to model |
 | Grace Chen |  | Helped make needed changes to model |
 
 ---
